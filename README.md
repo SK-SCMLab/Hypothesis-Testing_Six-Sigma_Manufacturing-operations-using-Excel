@@ -43,3 +43,18 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 ---
 
 ## 🔮 Power of a test
+- The probability of correctly rejecting the null hypothesis when it is false
+- The complement to Type 2 error and represented as 1-β
+- The probability of not committing a Type 2 error
+- It helps in improving the advantages of hypothesis testing
+- The highest value should be preferred when given a choice of tests
+
+---
+
+## 🛎 Confidence level
+- The probability of correctly failing to reject the null hypothesis when it is true
+- The complement to Type 1 error and represented as 1-α
+- The probability of not committing a Type 1 error
+
+---
+
