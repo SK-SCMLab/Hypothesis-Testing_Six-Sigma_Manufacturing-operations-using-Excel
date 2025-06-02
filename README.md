@@ -30,3 +30,16 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 
 - Null states that there is no difference in means (H₀: μₐ = μ₆)
 - Alternative is stating there is a difference in means
+
+| *Type 1 error* | *Type 2 error* |
+|----------------|----------------|
+| 1. Rejected a null hypothesis when it is true | 1. Accepting a null hypothesis when it is false |
+| 2. False positive | 2. False negative |
+| 3. Also known as 'Producers Risk' | 3. Also known as 'Consumers Risk' |
+| 4. Significane level or α is the chance of committing Type 1 error | 4. β is the chance of committing a Type 2 error |
+| 5. The value of α is 5% or 0.05 | 5. The value of β is 20% or 0.2 |
+| 6. N.A | 6. Any experiment should have a less β value as possible |
+
+---
+
+## 🔮 Power of a test
