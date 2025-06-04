@@ -59,3 +59,12 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 ---
 
 ## ☠️ Case Study: Hypothesis testing on the machine dimensions and the processing time
+### 🤏 Objectives
+- Effect of change in machine dimensions
+- Error detection of the time and dimensional attributes
+- Data quality check - Ensure the data is statistically significant or not
+- Process control
+
+### 🧜‍♂️ Interpretation
+From the excel analysis: 
+*At Significance level α =0.05*
