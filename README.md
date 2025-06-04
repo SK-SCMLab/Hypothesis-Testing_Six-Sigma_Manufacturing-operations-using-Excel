@@ -69,28 +69,35 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 CharacteristicsValue1.xlsx
 
 ### 🕴 Interpretation
+
 *At significance level α = 0.05*
+
 1. When Paired T.Test is conducted, it is observed a significant difference in the attributes Width, Length, Thickness, Edgecondition. Therefore, it is resulted as 'Reject H₀'. However, in case of Time, there is no significant difference in data, the result is 'Failed to reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is no significant difference observed in the attributes Width, Length, Thickness which resulted as 'Failed to reject H₀'. However, the data showed a significant difference in Time and EdgeCondition resulting it as 'Reject H₀'
 
 *At significance level α = 0.01*
+
 1. 1. When Paired T.Test is conducted, it is observed that there is no significant difference in the attributes Width, Length, Thickness, Time. Therefore, it is resulted as 'Failed to Reject H₀'. However, in case of EdgeCondition, there is no significant difference in data, the result is 'Reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is no significant difference observed in the attributes Width, Length, Thickness which resulted as 'Failed to reject H₀'. However, the data showed a significant difference in Time and EdgeCondition resulting it as 'Reject H₀'
 
 *At significance level α = 0.1*
+
 1. 1. When Paired T.Test is conducted, it is observed that there is a significant difference in the attributes Width, Length, Thickness, Time, EdgeCondtion. Therefore, it is resulted as 'Reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is a significant difference observed in the attributes Width, Length, Time, EdgeCondition which resulted as 'Reject H₀'. However, the data showed no significant difference in Thickness resulting it as 'Failed to Reject H₀'
 
 Throughout the data interpretation, if we include or exclude incorrect Test items, it may result in occurence of either Type 1 error or Type 2 error which can be decided in later steps. Conversely, the p-value of the attributes during Paired T.Test determine that there is a moderate to very strong evidence where 'Reject H₀' is positive. However, during the Two sample T.Test, there is either weak evidence or no evidence due to which it is recommeded to choose 'Fail to Reject H₀' is positive. 
 
 *Z-Test and Power of a test*
+
 As the population data is huge, Z-test is conduced at the population level instead of sample level. Ultimately, the power of the test is failed as the probability of correctly rejecting the null hypothesis (H₀) when it is false is very low. Also, as the population is large, effect size is also large; hence, the lower power. So, we need to focus on improving the test design by choosing good quality of data.
 
 *β-value*
+
 The β value is the probability of failing to reject the null hypothesis H₀ (Type 2 error) when it is actually false. In our case, β > 0.3 which evidently shows that the test that we conducted is weak and it is underpowered resulting in the risk of overlooking real effects.  The reason is the population size which we considered for analysis is large. It is recommended to choose sample size of 30>n>70 line items. 
 There is higher probability of the occurence of Type 2 error by the user.
 
 *Margin of error*
+
 Margin of Error is high because there exists high variability due to the selection of random values in the dataset. The users are overconfident in making decisions despite inconsistent data. 
 
 ---
