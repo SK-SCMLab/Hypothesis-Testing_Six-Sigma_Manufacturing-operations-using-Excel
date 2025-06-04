@@ -65,6 +65,9 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 - Data quality check - Ensure the data is statistically significant or not
 - Process control
 
+### 🫸🏻 Dataset
+CharacteristicsValue1.xlsx
+
 ### 🕴 Interpretation
 *At significance level α = 0.05*
 1. When Paired T.Test is conducted, it is observed a significant difference in the attributes Width, Length, Thickness, Edgecondition. Therefore, it is resulted as 'Reject H₀'. However, in case of Time, there is no significant difference in data, the result is 'Failed to reject H₀'
