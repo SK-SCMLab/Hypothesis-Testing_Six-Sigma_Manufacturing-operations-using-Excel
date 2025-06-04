@@ -58,3 +58,4 @@ Hypothesis testing is used to prove or disprove a theory or claim by comparing t
 
 ---
 
+## ☠️ Case Study: Hypothesis testing on the machine dimensions and the processing time
