@@ -72,17 +72,17 @@ CharacteristicsValue1.xlsx
 
 *At significance level α = 0.05*
 
-1. When Paired T.Test is conducted, it is observed a significant difference in the attributes Width, Length, Thickness, Edgecondition. Therefore, it is resulted as 'Reject H₀'. However, in case of Time, there is no significant difference in data, the result is 'Failed to reject H₀'
+1. When Paired T.Test is conducted, it is observed a significant difference in the attributes Width, Length, Thickness, Edgecondition. Therefore, it is resulted as 'Reject H₀'.However, in case of Time, there is no significant difference in data, the result is 'Failed to reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is no significant difference observed in the attributes Width, Length, Thickness which resulted as 'Failed to reject H₀'. However, the data showed a significant difference in Time and EdgeCondition resulting it as 'Reject H₀'
 
 *At significance level α = 0.01*
 
-1. 1. When Paired T.Test is conducted, it is observed that there is no significant difference in the attributes Width, Length, Thickness, Time. Therefore, it is resulted as 'Failed to Reject H₀'. However, in case of EdgeCondition, there is no significant difference in data, the result is 'Reject H₀'
+1. When Paired T.Test is conducted, it is observed that there is no significant difference in the attributes Width, Length, Thickness, Time. Therefore, it is resulted as 'Failed to Reject H₀'. However, in case of EdgeCondition, there is no significant difference in data, the result is 'Reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is no significant difference observed in the attributes Width, Length, Thickness which resulted as 'Failed to reject H₀'. However, the data showed a significant difference in Time and EdgeCondition resulting it as 'Reject H₀'
 
 *At significance level α = 0.1*
 
-1. 1. When Paired T.Test is conducted, it is observed that there is a significant difference in the attributes Width, Length, Thickness, Time, EdgeCondtion. Therefore, it is resulted as 'Reject H₀'
+1. When Paired T.Test is conducted, it is observed that there is a significant difference in the attributes Width, Length, Thickness, Time, EdgeCondtion. Therefore, it is resulted as 'Reject H₀'
 2. When Two sample T.Test is conducted with equal and unequal variances, there is a significant difference observed in the attributes Width, Length, Time, EdgeCondition which resulted as 'Reject H₀'. However, the data showed no significant difference in Thickness resulting it as 'Failed to Reject H₀'
 
 Throughout the data interpretation, if we include or exclude incorrect Test items, it may result in occurence of either Type 1 error or Type 2 error which can be decided in later steps. Conversely, the p-value of the attributes during Paired T.Test determine that there is a moderate to very strong evidence where 'Reject H₀' is positive. However, during the Two sample T.Test, there is either weak evidence or no evidence due to which it is recommeded to choose 'Fail to Reject H₀' is positive. 
