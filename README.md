@@ -122,4 +122,4 @@ Margin of Error is high because there exists high variability due to the selecti
 
 ---
 
-*Data will talk if you're willing to listen - Jim Bergeson*
+*"Data will talk if you're willing to listen" - Jim Bergeson*
