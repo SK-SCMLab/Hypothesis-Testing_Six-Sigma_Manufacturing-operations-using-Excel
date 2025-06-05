@@ -99,6 +99,7 @@ There is higher probability of the occurence of Type 2 error by the user.
 *Margin of error*
 
 Margin of Error is high because there exists high variability due to the selection of random values in the dataset. The users are overconfident in making decisions despite inconsistent data. 
+It is recommended to normalize the data by calculating Mean and Standard Deviation for the population data. 
 
 ---
 
